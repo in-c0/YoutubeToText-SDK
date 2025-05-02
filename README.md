@@ -2,6 +2,9 @@
 
 > A minimal client for the hosted YouTube-to-Text transcription API.
 
+> ⚠️ Package currently in development. In the meantime, access the API at https://api.youtubetotext.com/transcript/{video-id}
+
+
 [![PyPI version](https://img.shields.io/pypi/v/youtubetotext-sdk)](https://pypi.org/project/youtubetotext-sdk/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Features
