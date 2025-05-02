@@ -1,4 +1,4 @@
-# YT2Text(YouTube-to-Text) SDK
+# YouTube-to-Text SDK
 
 > A minimal client for the hosted YouTube-to-Text transcription API.
 
