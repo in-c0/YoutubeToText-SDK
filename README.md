@@ -2,8 +2,8 @@
 
 > A minimal client for the hosted YouTube-to-Text transcription API.
 
-> ⚠️ Package currently in development. In the meantime, access the API at https://api.youtubetotext.com/transcript/{video-id}
-
+> ⚠️ Package currently in development.
+> In the meantime, access the API at youtubetotext.com/api
 ![image](https://github.com/user-attachments/assets/5b216019-ebef-4cf4-89c5-c23529505404)
 
 
